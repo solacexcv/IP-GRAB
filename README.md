@@ -1,12 +1,12 @@
-<h1 align="center">SMS-Spam</h1>
+<h1 align="center">IP-GRAB</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-0.1-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/solacexcv/SMS-Spam?style=for-the-badge&color=orange">
-  <img src="https://img.shields.io/github/forks/solacexcv/SMS-Spam?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/watchers/solacexcv/SMS-Spam?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/issues/solacexcv/SMS-Spam?color=red&style=for-the-badge">
-  <img src="https://hits.dwyl.com/solacexcv/SMS-Spam.svg" width="140" height="28">
+  <img src="https://img.shields.io/github/stars/solacexcv/IP-GRAB?style=for-the-badge&color=orange">
+  <img src="https://img.shields.io/github/forks/solacexcv/IP-GRAB?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/watchers/solacexcv/IP-GRAB?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/issues/solacexcv/IP-GRAB?color=red&style=for-the-badge">
+  <img src="https://hits.dwyl.com/solacexcv/IP-GRAB-Spam.svg" width="140" height="28">
 <br>
 <br>
   <img src="https://img.shields.io/badge/Author-solacexcv-purple?style=flat-square">
@@ -16,20 +16,20 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/solacexcv/SMS-Spam/main/banner.png?token=GHSAT0AAAAAACL6W4TZBASAQT3LYQZDWKV2ZMIEBZQ", width="800", height="800">
+<img src="https://raw.githubusercontent.com/solacexcv/IP-GRAB/main/ipbanner.png?token=GHSAT0AAAAAACL6W4TZHVTUVJI422KHCBN2ZMJVA2A", width="800", height="800">
 </p>
-<h1 align="center"> SMS-Spam</h1>
-<h4 align="center"> SMS-Spam is the tool can flood some one sms or number, this can spam sms This Tool is tested to Philippines i dont known if this tool is working to other country.</h4>
+<h1 align="center"> IP-GRAB</h1>
+<h4 align="center"> IP-GRAB, This Tool Can Generate a Link That Can Grab a IP, If The Victim Opens The Link You Will Get The IP of The Victim, Wait For 20 To 30 sec To Get The Full info of The Particular IP.</h4>
 
 ### INSTALLATION [ TERMUX ]
 * apt install -y
 * apt update -y
 * apt upgrade -y
 * pkg install git
-* git clone https://github.com/solacexcv/SMS-Spam
-* cd SMS-Spam
-* chmod +x sms.sh
-* bash sms.sh
+* git clone https://github.com/solacexcv/IP-GRAB
+* cd IP-GRAB
+* chmod +x grab.sh
+* bash grab.sh
 
 ### TESTED ON FOLLOWING
 * Termux App
